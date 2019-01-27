@@ -8,10 +8,10 @@ MacBook Air
 ![CasePrime MacBoor Air](img/screenshots/img-header.png)
 
 Samsung Galaxy Tablet Landscape
-![CasaPrime Samsung Tablet Landscape](img/screenshots/img/tablet-landscape.png)
+![CasaPrime Samsung Tablet Landscape](img/screenshots/tablet-landscape.jpg)
 
 Samsung Galaxy Tablet Portrait
-![CasaPrime Samsung Tablet Portrait](img/screenshots/img/tablet-portrait.png)
+![CasaPrime Samsung Tablet Portrait](img/screenshots/tablet-portrait.jpg)
 
 Smartphone Landscape
 ![CasePrim Smartphone Landscape](img/screenshots/smartphone-landscape.jpeg)
