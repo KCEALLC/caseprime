@@ -1,2 +1,2 @@
 # caseprime
-CSS Grid responsive mock website
+Responsive mock website using CSS Grid & Flexbox
