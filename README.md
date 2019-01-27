@@ -4,7 +4,7 @@ Responsive mock website using CSS Grid & Flexbox
 #### Description ####
 Mock Luxury Real Estate website built using CSS Grids & Flexbox. Responsive grid layouts depending on device e.g Desktop, tablets or smartphones.
 
-MacBook Air /home/nathan/Documents/caseprime/img/screenshots/img-customers.png
+MacBook Air 
 ![CasePrime MacBoor Air](img/screenshots/img-header.png)
 
 Samsung Galaxy Tablet Landscape
